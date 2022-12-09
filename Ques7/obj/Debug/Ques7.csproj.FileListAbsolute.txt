@@ -1,0 +1,7 @@
+C:\Users\HP\Source\Repos\NewRepo2\Ques7\bin\Debug\Ques7.exe.config
+C:\Users\HP\Source\Repos\NewRepo2\Ques7\bin\Debug\Ques7.exe
+C:\Users\HP\Source\Repos\NewRepo2\Ques7\bin\Debug\Ques7.pdb
+C:\Users\HP\Source\Repos\NewRepo2\Ques7\obj\Debug\Ques7.csproj.AssemblyReference.cache
+C:\Users\HP\Source\Repos\NewRepo2\Ques7\obj\Debug\Ques7.csproj.CoreCompileInputs.cache
+C:\Users\HP\Source\Repos\NewRepo2\Ques7\obj\Debug\Ques7.exe
+C:\Users\HP\Source\Repos\NewRepo2\Ques7\obj\Debug\Ques7.pdb
