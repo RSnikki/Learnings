@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ques6
 {
-    class Program6
+    class Program
     {
         public int FindProduct(int num1, int num2, int num3)
         {
@@ -25,7 +25,7 @@ namespace Ques6
         }
         static void Main(string[] args)
         {
-            Program6 p6 = new Program6();
+            Program p6 = new Program();
 
             Console.Write("Enter First Number: ");
             int num1 = Convert.ToInt32(Console.ReadLine());
