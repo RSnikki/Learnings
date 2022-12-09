@@ -1,0 +1,2 @@
+C:\Users\HP\Source\Repos\NewRepo2\Ques6\obj\Debug\Ques6.csproj.AssemblyReference.cache
+C:\Users\HP\Source\Repos\NewRepo2\Ques6\obj\Debug\Ques6.csproj.CoreCompileInputs.cache
