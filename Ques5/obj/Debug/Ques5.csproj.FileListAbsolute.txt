@@ -1,0 +1,7 @@
+C:\Users\HP\Source\Repos\NewRepo2\Ques5\bin\Debug\Ques5.exe.config
+C:\Users\HP\Source\Repos\NewRepo2\Ques5\bin\Debug\Ques5.exe
+C:\Users\HP\Source\Repos\NewRepo2\Ques5\bin\Debug\Ques5.pdb
+C:\Users\HP\Source\Repos\NewRepo2\Ques5\obj\Debug\Ques5.csproj.AssemblyReference.cache
+C:\Users\HP\Source\Repos\NewRepo2\Ques5\obj\Debug\Ques5.csproj.CoreCompileInputs.cache
+C:\Users\HP\Source\Repos\NewRepo2\Ques5\obj\Debug\Ques5.exe
+C:\Users\HP\Source\Repos\NewRepo2\Ques5\obj\Debug\Ques5.pdb
