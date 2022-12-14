@@ -22,7 +22,7 @@ namespace Ques9
             while (numb > 0)
             {
                 dig = numb % 10;
-                sum = sum + (dig ^ count);
+                sum = (int)(sum + Math.Pow(dig, count));
                 numb = numb / 10;
             }
             
@@ -50,6 +50,7 @@ namespace Ques9
             {
                 Console.WriteLine("{0} is not a Armstrong no.", n);
             }
+            Console.ReadLine();
 
         }
     }

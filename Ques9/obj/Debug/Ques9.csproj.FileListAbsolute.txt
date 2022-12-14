@@ -1,0 +1,7 @@
+C:\Users\HP\Source\Repos\NewRepo2\Ques9\bin\Debug\Ques9.exe.config
+C:\Users\HP\Source\Repos\NewRepo2\Ques9\bin\Debug\Ques9.exe
+C:\Users\HP\Source\Repos\NewRepo2\Ques9\bin\Debug\Ques9.pdb
+C:\Users\HP\Source\Repos\NewRepo2\Ques9\obj\Debug\Ques9.csproj.AssemblyReference.cache
+C:\Users\HP\Source\Repos\NewRepo2\Ques9\obj\Debug\Ques9.csproj.CoreCompileInputs.cache
+C:\Users\HP\Source\Repos\NewRepo2\Ques9\obj\Debug\Ques9.exe
+C:\Users\HP\Source\Repos\NewRepo2\Ques9\obj\Debug\Ques9.pdb
