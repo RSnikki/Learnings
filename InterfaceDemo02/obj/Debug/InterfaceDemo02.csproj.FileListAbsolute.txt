@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\NewRepo2\InterfaceDemo02\bin\Debug\InterfaceDemo02.exe.config
+C:\Users\HP\source\repos\NewRepo2\InterfaceDemo02\bin\Debug\InterfaceDemo02.exe
+C:\Users\HP\source\repos\NewRepo2\InterfaceDemo02\bin\Debug\InterfaceDemo02.pdb
+C:\Users\HP\source\repos\NewRepo2\InterfaceDemo02\obj\Debug\InterfaceDemo02.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\NewRepo2\InterfaceDemo02\obj\Debug\InterfaceDemo02.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\NewRepo2\InterfaceDemo02\obj\Debug\InterfaceDemo02.exe
+C:\Users\HP\source\repos\NewRepo2\InterfaceDemo02\obj\Debug\InterfaceDemo02.pdb
