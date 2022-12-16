@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\NewRepo2\AbstractDemo\bin\Debug\AbstractDemo.exe.config
+C:\Users\HP\source\repos\NewRepo2\AbstractDemo\bin\Debug\AbstractDemo.exe
+C:\Users\HP\source\repos\NewRepo2\AbstractDemo\bin\Debug\AbstractDemo.pdb
+C:\Users\HP\source\repos\NewRepo2\AbstractDemo\obj\Debug\AbstractDemo.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\NewRepo2\AbstractDemo\obj\Debug\AbstractDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\NewRepo2\AbstractDemo\obj\Debug\AbstractDemo.exe
+C:\Users\HP\source\repos\NewRepo2\AbstractDemo\obj\Debug\AbstractDemo.pdb
