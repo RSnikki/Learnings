@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AbstractDemo
+namespace AbstractDemo01
 {
     /*Abstract modifier can be used with classes, properties, methods, indexers and events.*/
     public abstract class AbstractClass

@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\NewRepo2\ConsoleApp1\obj\Debug\AbstractDem02.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\NewRepo2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\HP\source\repos\NewRepo2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\HP\source\repos\NewRepo2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\HP\source\repos\NewRepo2\ConsoleApp1\obj\Debug\AbstractDem02.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\NewRepo2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\HP\source\repos\NewRepo2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
