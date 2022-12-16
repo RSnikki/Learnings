@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\NewRepo2\AbstractDem04\bin\Debug\AbstractDem04.exe.config
+C:\Users\HP\source\repos\NewRepo2\AbstractDem04\bin\Debug\AbstractDem04.exe
+C:\Users\HP\source\repos\NewRepo2\AbstractDem04\bin\Debug\AbstractDem04.pdb
+C:\Users\HP\source\repos\NewRepo2\AbstractDem04\obj\Debug\AbstractDem04.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\NewRepo2\AbstractDem04\obj\Debug\AbstractDem04.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\NewRepo2\AbstractDem04\obj\Debug\AbstractDem04.exe
+C:\Users\HP\source\repos\NewRepo2\AbstractDem04\obj\Debug\AbstractDem04.pdb
