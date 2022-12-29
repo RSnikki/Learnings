@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\NewRepo2\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\HP\source\repos\NewRepo2\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\HP\source\repos\NewRepo2\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\HP\source\repos\NewRepo2\ConsoleApp3\obj\Debug\CollectionInitializerDemo.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\NewRepo2\ConsoleApp3\obj\Debug\CollectionInitializerDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\NewRepo2\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\HP\source\repos\NewRepo2\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
