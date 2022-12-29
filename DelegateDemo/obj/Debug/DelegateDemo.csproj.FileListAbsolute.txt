@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\NewRepo2\DelegateDemo\bin\Debug\DelegateDemo.exe.config
+C:\Users\HP\source\repos\NewRepo2\DelegateDemo\bin\Debug\DelegateDemo.exe
+C:\Users\HP\source\repos\NewRepo2\DelegateDemo\bin\Debug\DelegateDemo.pdb
+C:\Users\HP\source\repos\NewRepo2\DelegateDemo\obj\Debug\DelegateDemo.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\NewRepo2\DelegateDemo\obj\Debug\DelegateDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\NewRepo2\DelegateDemo\obj\Debug\DelegateDemo.exe
+C:\Users\HP\source\repos\NewRepo2\DelegateDemo\obj\Debug\DelegateDemo.pdb
