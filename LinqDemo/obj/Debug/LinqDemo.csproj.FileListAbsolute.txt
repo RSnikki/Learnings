@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\NewRepo2\LinqDemo\bin\Debug\LinqDemo.exe.config
+C:\Users\HP\source\repos\NewRepo2\LinqDemo\bin\Debug\LinqDemo.exe
+C:\Users\HP\source\repos\NewRepo2\LinqDemo\bin\Debug\LinqDemo.pdb
+C:\Users\HP\source\repos\NewRepo2\LinqDemo\obj\Debug\LinqDemo.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\NewRepo2\LinqDemo\obj\Debug\LinqDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\NewRepo2\LinqDemo\obj\Debug\LinqDemo.exe
+C:\Users\HP\source\repos\NewRepo2\LinqDemo\obj\Debug\LinqDemo.pdb
