@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\NewRepo2\InterfaceSessionDemo\bin\Debug\netcoreapp3.1\InterfaceSessionDemo.exe
+C:\Users\HP\source\repos\NewRepo2\InterfaceSessionDemo\bin\Debug\netcoreapp3.1\InterfaceSessionDemo.deps.json
+C:\Users\HP\source\repos\NewRepo2\InterfaceSessionDemo\bin\Debug\netcoreapp3.1\InterfaceSessionDemo.runtimeconfig.json
+C:\Users\HP\source\repos\NewRepo2\InterfaceSessionDemo\bin\Debug\netcoreapp3.1\InterfaceSessionDemo.runtimeconfig.dev.json
+C:\Users\HP\source\repos\NewRepo2\InterfaceSessionDemo\bin\Debug\netcoreapp3.1\InterfaceSessionDemo.dll
+C:\Users\HP\source\repos\NewRepo2\InterfaceSessionDemo\bin\Debug\netcoreapp3.1\InterfaceSessionDemo.pdb
+C:\Users\HP\source\repos\NewRepo2\InterfaceSessionDemo\obj\Debug\netcoreapp3.1\InterfaceSessionDemo.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\NewRepo2\InterfaceSessionDemo\obj\Debug\netcoreapp3.1\InterfaceSessionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\NewRepo2\InterfaceSessionDemo\obj\Debug\netcoreapp3.1\InterfaceSessionDemo.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\NewRepo2\InterfaceSessionDemo\obj\Debug\netcoreapp3.1\InterfaceSessionDemo.AssemblyInfo.cs
+C:\Users\HP\source\repos\NewRepo2\InterfaceSessionDemo\obj\Debug\netcoreapp3.1\InterfaceSessionDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\NewRepo2\InterfaceSessionDemo\obj\Debug\netcoreapp3.1\InterfaceSessionDemo.dll
+C:\Users\HP\source\repos\NewRepo2\InterfaceSessionDemo\obj\Debug\netcoreapp3.1\InterfaceSessionDemo.pdb
+C:\Users\HP\source\repos\NewRepo2\InterfaceSessionDemo\obj\Debug\netcoreapp3.1\InterfaceSessionDemo.genruntimeconfig.cache

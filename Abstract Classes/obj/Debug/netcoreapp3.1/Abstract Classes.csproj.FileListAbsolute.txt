@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\NewRepo2\Abstract Classes\bin\Debug\netcoreapp3.1\Abstract Classes.exe
+C:\Users\HP\source\repos\NewRepo2\Abstract Classes\bin\Debug\netcoreapp3.1\Abstract Classes.deps.json
+C:\Users\HP\source\repos\NewRepo2\Abstract Classes\bin\Debug\netcoreapp3.1\Abstract Classes.runtimeconfig.json
+C:\Users\HP\source\repos\NewRepo2\Abstract Classes\bin\Debug\netcoreapp3.1\Abstract Classes.runtimeconfig.dev.json
+C:\Users\HP\source\repos\NewRepo2\Abstract Classes\bin\Debug\netcoreapp3.1\Abstract Classes.dll
+C:\Users\HP\source\repos\NewRepo2\Abstract Classes\bin\Debug\netcoreapp3.1\Abstract Classes.pdb
+C:\Users\HP\source\repos\NewRepo2\Abstract Classes\obj\Debug\netcoreapp3.1\Abstract Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\NewRepo2\Abstract Classes\obj\Debug\netcoreapp3.1\Abstract Classes.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\NewRepo2\Abstract Classes\obj\Debug\netcoreapp3.1\Abstract Classes.AssemblyInfo.cs
+C:\Users\HP\source\repos\NewRepo2\Abstract Classes\obj\Debug\netcoreapp3.1\Abstract Classes.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\NewRepo2\Abstract Classes\obj\Debug\netcoreapp3.1\Abstract Classes.dll
+C:\Users\HP\source\repos\NewRepo2\Abstract Classes\obj\Debug\netcoreapp3.1\Abstract Classes.pdb
+C:\Users\HP\source\repos\NewRepo2\Abstract Classes\obj\Debug\netcoreapp3.1\Abstract Classes.genruntimeconfig.cache
+C:\Users\HP\source\repos\NewRepo2\Abstract Classes\obj\Debug\netcoreapp3.1\Abstract Classes.csproj.AssemblyReference.cache

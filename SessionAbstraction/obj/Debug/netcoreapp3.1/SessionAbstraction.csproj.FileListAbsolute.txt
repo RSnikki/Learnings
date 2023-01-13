@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\NewRepo2\SessionAbstraction\bin\Debug\netcoreapp3.1\SessionAbstraction.exe
+C:\Users\HP\source\repos\NewRepo2\SessionAbstraction\bin\Debug\netcoreapp3.1\SessionAbstraction.deps.json
+C:\Users\HP\source\repos\NewRepo2\SessionAbstraction\bin\Debug\netcoreapp3.1\SessionAbstraction.runtimeconfig.json
+C:\Users\HP\source\repos\NewRepo2\SessionAbstraction\bin\Debug\netcoreapp3.1\SessionAbstraction.runtimeconfig.dev.json
+C:\Users\HP\source\repos\NewRepo2\SessionAbstraction\bin\Debug\netcoreapp3.1\SessionAbstraction.dll
+C:\Users\HP\source\repos\NewRepo2\SessionAbstraction\bin\Debug\netcoreapp3.1\SessionAbstraction.pdb
+C:\Users\HP\source\repos\NewRepo2\SessionAbstraction\obj\Debug\netcoreapp3.1\SessionAbstraction.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\NewRepo2\SessionAbstraction\obj\Debug\netcoreapp3.1\SessionAbstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\NewRepo2\SessionAbstraction\obj\Debug\netcoreapp3.1\SessionAbstraction.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\NewRepo2\SessionAbstraction\obj\Debug\netcoreapp3.1\SessionAbstraction.AssemblyInfo.cs
+C:\Users\HP\source\repos\NewRepo2\SessionAbstraction\obj\Debug\netcoreapp3.1\SessionAbstraction.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\NewRepo2\SessionAbstraction\obj\Debug\netcoreapp3.1\SessionAbstraction.dll
+C:\Users\HP\source\repos\NewRepo2\SessionAbstraction\obj\Debug\netcoreapp3.1\SessionAbstraction.pdb
+C:\Users\HP\source\repos\NewRepo2\SessionAbstraction\obj\Debug\netcoreapp3.1\SessionAbstraction.genruntimeconfig.cache
