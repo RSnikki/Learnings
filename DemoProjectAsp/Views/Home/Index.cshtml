@@ -1,0 +1,16 @@
+﻿@model IEnumerable<DemoProjectAsp.Models.Book>
+@{
+    ViewData["Title"] = "Index";
+
+}
+<h2>Index</h2>
+@foreach (var Item in Model)
+{
+    <div><span>@Item.Id</span></div>
+    <div><i>@Item.Title</i></div>
+    <div><b>@Item.Description</b></div>
+    <div><span>@Item.Author</span></div>
+    
+    <div><span>@Item.Price</span></div>
+    <div><span>@Item.PublishedDate</span></div>
+}
