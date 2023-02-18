@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "gV5AQ8Rn6OuwZ0YU0BWbbSZqxp0GFOKMrOh/+IPVbRVamRqTjzZtPDiB2EJ3a3GvI39R9rvJjmLfhcaas24mVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\NewRepo2\\DemoAPICoreWebAppMVC\\DemoAPICoreWebAppMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\4.0.1\\newtonsoft.json.4.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Newtonsoft.Json 4.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

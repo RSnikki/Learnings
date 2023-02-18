@@ -29,27 +29,33 @@ namespace DemoAPICore.Controllers
 
         // GET api/<BookController>/5
         [HttpGet("{id}")]
-        public string Get(int id)
+        public JsonResult GetBook(int id)
         {
-            return "value";
+            return new JsonResult(_repo.Get(id));
         }
 
         // POST api/<BookController>
         [HttpPost]
-        public void Post([FromBody] string value)
+        public JsonResult AddBook([FromBody] Book book1)
         {
+            bool status = _repo.Add(book1);
+            return new JsonResult(status);
         }
 
         // PUT api/<BookController>/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        public JsonResult UpdateBook(int id, [FromBody] Book book2)
         {
+            bool status = _repo.Edit(id, book2);
+            return new JsonResult(status);
         }
 
         // DELETE api/<BookController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
+        [HttpDelete("{name}")]
+        public JsonResult DeleteBook(string name)
         {
+            bool status = _repo.Delete(name);
+            return new JsonResult(status);
         }
     }
 }

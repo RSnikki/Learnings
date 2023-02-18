@@ -10,7 +10,7 @@ namespace DemoAPICore.Services
         T Get(int id);
         IEnumerable<T> GetAll();
         bool Add(T item);
-        bool Delete(T item);
-        bool Edit(T item);
+        bool Delete(string name);
+        bool Edit(int id, T item);
     }
 }

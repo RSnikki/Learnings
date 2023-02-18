@@ -29,14 +29,43 @@ namespace DemoAPICore.Services
             }
         }
 
-        public bool Delete(Book item)
+        public bool Delete(string name)
         {
-            throw new NotImplementedException();
+            Book fBook = _context.Books
+                             .Where(x => x.Title == name)
+                             .FirstOrDefault();
+            if (fBook != null)
+            {
+                _context.Books.Remove(fBook);
+                _context.SaveChanges();
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
 
-        public bool Edit(Book item)
+        public bool Edit(int id, Book item)
         {
-            throw new NotImplementedException();
+            Book fBook = _context.Books.Find(id);
+
+            fBook.Title = item.Title;
+            fBook.Description = item.Description;
+            fBook.Author = item.Author;
+            fBook.PublishedDate = item.PublishedDate;
+            fBook.Price = item.Price;
+
+            if (fBook != null)
+            {
+                _context.Books.Update(fBook);
+                _context.SaveChanges();
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
 
         public Book Get(int id)
