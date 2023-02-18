@@ -8147,11 +8147,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\NewRepo2\\DemoProjectAsp\\DemoProjectAsp.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Source\\Repos\\NewRepo2\\DemoProjectAsp\\DemoProjectAsp.csproj",
       "projectName": "DemoProjectAsp",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\NewRepo2\\DemoProjectAsp\\DemoProjectAsp.csproj",
+      "projectPath": "C:\\Users\\HP\\Source\\Repos\\NewRepo2\\DemoProjectAsp\\DemoProjectAsp.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\NewRepo2\\DemoProjectAsp\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Source\\Repos\\NewRepo2\\DemoProjectAsp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8216,5 +8216,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\HP\\Source\\Repos\\NewRepo2\\DemoProjectAsp\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
